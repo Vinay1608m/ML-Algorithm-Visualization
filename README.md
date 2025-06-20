@@ -1,5 +1,5 @@
 # 🧠 Machine Learning Algorithm Visualizer <!-- Add an image if you have -->
-![WhatsApp Image 2025-06-16 at 17 56 11_7e786d46](https://github.com/user-attachments/assets/c511ad3a-a113-4af9-9a9a-5b513199af20)
+
 
 ## 📝 Overview  
 This Streamlit-based application allows users to **upload datasets**, apply **machine learning algorithms**, and visualize results — all through an intuitive UI with **no coding required**. It supports both classification and clustering models and shows clear **accuracy metrics** and **PCA visualizations**.
