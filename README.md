@@ -65,7 +65,7 @@ Feel free to fork, suggest features, or raise issues for improvements.
 
 📧 Email: [vinaymanda2003@gmail.com](mailto:vinay456m@gmail.com)  
 🔗 LinkedIn: [Vinay Manda](https://www.linkedin.com/in/vinay-manda-b6811725a/) 
-🔗 GitHub: [[github.com/vinaymanda](https://github.com/Vinay1608m)
+🔗 GitHub: [Vinay1608m](https://github.com/Vinay1608m)
 
 ## 📄 License
 
