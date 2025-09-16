@@ -15,8 +15,8 @@ This Streamlit-based application allows users to **upload datasets**, apply **ma
 ## 🚀 Demo  
 <!-- You can add images or GIFs here showing how your application works -->
 <!-- For example: -->
-<!-- ![Demo](demo.gif) -->
-📽️ *Coming Soon...*
+📽️[Demo]((https://drive.google.com/file/d/11nJfDVXi4iy1UIwoZQCG4KnrEy4po-dI/view?usp=sharing)) -->
+
 
 ## 📅 Usage
 
